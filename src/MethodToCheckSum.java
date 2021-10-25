@@ -11,7 +11,7 @@ class MethodToCheckSum {
         else if (sum >= 100)
             check = 1;
 
-        else  
+        else
             check = 2;
 
         return check;
